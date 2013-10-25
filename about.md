@@ -3,8 +3,7 @@ layout: page
 title: About
 ---
 
-Give people something to read and get to know you. Here's my attempt: this is [Mu-An](http://muan.co), a designer developer who lives in London at the moment.
+You've probably com here looking for some kind of information about yours truly.
+ Maybe I'll put it here, but more likely, knowing me I'll put it slightly to the left.
 
-Tweet at [@muanchiou](http://twitter.com/muanchiou), read my code on [GitHub](http://github.com/muan), see my designs on [Dribbble](http://dribbble.com/muan), find my CV on [LinkedIn](http://uk.linkedin.com/in/muanchiou).
-
-This theme is made by me. You have a nice day. ♥
+I do have a definite purpose for this site, though.  I'm too male and techy for pintest and I might be to do some networking of something to show off any work that I might do, so I'll do both of those things here.
