@@ -5,7 +5,7 @@ date: 2013-10-31 07:35:30
 disqus: y
 ---
 
-<iframe width="480" height="360" src="//www.youtube.com/embed/bTg7SwskOmA#t=2m35s?start=155&rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="360" src="//www.youtube.com/embed/bTg7SwskOmA?start=155&rel=0" frameborder="0" allowfullscreen></iframe>
 
 The interesting bit starts on 2:35, though the the body positioning for the first technique they show could also use some looking into.
 
