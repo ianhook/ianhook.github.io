@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Aikido Goal
-date: 2013-10-31 07:35:30
+date: 2013-10-31 00:35:30
 disqus: y
 tags: [aikido]
 ---
