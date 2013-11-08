@@ -3,7 +3,7 @@ layout: post
 title: New Aikido Goal
 date: 2013-10-31 07:35:30
 disqus: y
-categories: [aikido]
+tags: [aikido]
 ---
 
 {% include youtube.html src="//www.youtube.com/embed/bTg7SwskOmA" seconds="155" %}
