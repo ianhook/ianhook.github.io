@@ -6,7 +6,7 @@ disqus: y
 tags: [aikido]
 ---
 
-{% include youtube.html src="//www.youtube.com/embed/bTg7SwskOmA" seconds="155" %}
+{% include youtube.html src="bTg7SwskOmA" seconds="155" %}
 
 The interesting bit starts on 2:35, though the the body positioning for the first technique they show could also use some looking into.
 

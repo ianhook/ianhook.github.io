@@ -20,3 +20,5 @@ permalink:        pretty
 markdown:         rdiscount
 rdiscount:
   extensions:     [smart]
+
+timezone: America/Los_Angeles
