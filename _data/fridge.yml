@@ -1,8 +1,8 @@
 ---
 name:   Six in One Refridgerator Cookies
 ingredients:
-    - item: butter
+    -   item: butter
         measurement: 2
         units: cup
 description:
-    - Cream butter. Gradually add sugars; crea until light and fluffy.
+    -   Cream butter. Gradually add sugars; crea until light and fluffy.
