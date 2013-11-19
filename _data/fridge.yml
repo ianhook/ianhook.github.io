@@ -4,5 +4,5 @@ ingredients:
     -   item: butter
         measurement: 2
         units: cup
-description:
-    -   Cream butter. Gradually add sugars; crea until light and fluffy.
+description: |
+    Cream butter. Gradually add sugars; crea until light and fluffy.

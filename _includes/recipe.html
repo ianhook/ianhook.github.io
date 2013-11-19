@@ -1,1 +1,7 @@
 <p>{{ site.data[include.recipe].name }}</p>
+{% for ingredient in site.data[include.recipe].ingredients %}
+<li> {{ ingredient.measurement }} {{ ingredient.units }} {{ ingredient.item }}
+</li>
+{% endfor %}
+<p>{{ site.data[include.recipe].de }}</p>
+
