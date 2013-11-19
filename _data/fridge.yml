@@ -23,13 +23,10 @@ ingredients:
         units: tsp.
     -   item: salt
         measurement: .5
-        unit: tsp.
+        units: tsp.
 
 description: |
-    Cream butter. Gradually add sugars; crea until light and fluffy.
-
-    Add eggs and vanilla; mix well.
-
-    Sift together flour, soda and salt; gradually add to creamed mixture, beating well after each addition.
-
-    Divide dough in six parts.
+    <p>Cream butter. Gradually add sugars; crea until light and fluffy.</p>
+    <p>Add eggs and vanilla; mix well.</p>
+    <p>Sift together flour, soda and salt; gradually add to creamed mixture, beating well after each addition.</p>
+    <p>Divide dough in six parts.</p>
