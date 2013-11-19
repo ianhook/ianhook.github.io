@@ -4,5 +4,28 @@ ingredients:
     -   item: butter
         measurement: 2
         units: cup
+    -   item: sugar
+        measurement: 1
+        units: cup
+    -   item: light brown sugar, firmly packed
+        measurement: 1
+        units: cup
+    -   item: eggs, beaten
+        measurement: 2
+    -   item: vanilla
+        measurement: 1
+        units: tsp.
+    -   item: flour
+        measurement: 4
+        units: cup
+    -   item: baking soda
+        measurement: 1
+        units: tsp.
+    -   item: salt
+        measurement: .5
+        unit: tsp.
 description: |
     Cream butter. Gradually add sugars; crea until light and fluffy.
+    Add eggs and vanilla; mix well.
+    Sift together flour, soda and salt; gradually add to creamed mixture, beating well after each addition.
+    Divide dough in six parts.
