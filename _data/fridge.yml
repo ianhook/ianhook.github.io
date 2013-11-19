@@ -1,5 +1,6 @@
 ---
 name:   Six in One Refridgerator Cookies
+description: Makes 18 dozen cookies in 6 different flavors
 ingredients:
     -   item: butter
         measurement: 2
@@ -25,7 +26,7 @@ ingredients:
         measurement: .5
         units: tsp.
 
-description: |
+directions: |
     <p>Cream butter. Gradually add sugars; crea until light and fluffy.</p>
     <p>Add eggs and vanilla; mix well.</p>
     <p>Sift together flour, soda and salt; gradually add to creamed mixture, beating well after each addition.</p>
