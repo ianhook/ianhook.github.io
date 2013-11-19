@@ -8,4 +8,5 @@ tags: [recipes]
 
 An oldy but a goody for the winter months:
 
+{% include recipe.html recipe="fridge" %}
 
