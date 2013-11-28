@@ -1,0 +1,35 @@
+---
+name:   Microwave Rocky Road Fudge
+description: Yum!
+ingredients:
+    -   item: butter
+        measurement: .5
+        units: cup
+    -   item: powdered sugar
+        measurement: 4
+        units: cup
+    -   item: sifted cocoa
+        measurement: .33
+        units: cup
+    -   item: evaporated milk
+        measurement: .25
+        units: cup
+    -   item: vanilla
+        measurement: 1
+        units: tsp.
+    -   item: chopped walnuts or pecans
+        measurement: 1.5
+        units: cup
+    -   item: miniature marshmallows
+        measurement: 2
+        units: cup
+
+directions: |
+    <p>Place butter in a 2qt. Bowl and cook in microwave uncovered on High for 1  minutes or until 
+    melted.  Stir in sugar, cocoa, and milk.  Cook on High for 2 minutes or until slightly thinned and 
+    warm.  Add vanilla and nut.  Let mixture cool by constantly stirring, just until it is cool enough to 
+    add marshmallows without melting.  Add marshmallows and turn mixture into a wax paper lined 
+    8Åhx8Åhx2: baking pan.</p>
+    <p>Chill until firm about 2 to 3 hours.</p>
+    <p>Turn mixture over onto a cutting board and peel of wax paper.  Cut into serving pieces.  Makes 
+    about 2lbs of fudge.</p>
