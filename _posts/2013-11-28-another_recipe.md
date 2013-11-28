@@ -8,5 +8,4 @@ tags: [recipes]
 
 I should really just make a recipes page
 
-{% include recipe.html recipe="rocky_road" %}
 
