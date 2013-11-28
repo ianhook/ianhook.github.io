@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My first recipe
+title: Another recipe
 date: 2013-11-28 09:41:56
 disqus: y
 tags: [recipes]
