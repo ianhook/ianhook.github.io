@@ -1,15 +1,17 @@
 import React from 'react';
 import styled from 'styled-components';
 
-const Icon = styled.img`
-    height: 1.5em;
-    vertical-align: -4px;
+const Link = styled.a`
+    color: inherit;
+    &:hover {
+        text-decoration: underline;
+    }
 `;
 
 const Github = ({ link }) => (
-    <a href={`http://github.com/${link}`} >
-        <Icon src="./public/images/GitHub-Mark-32px.png" />
-    </a>
+    <Link href={`http://github.com/${link}`} >
+        <i className="fab fa-github"></i>
+    </Link>
 );
 
 export default Github;

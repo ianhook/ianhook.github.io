@@ -5,13 +5,8 @@ import Section from './Section';
 import Description from './Description';
 import Github from './Github';
 
-const Name = styled.a`
+const Name = styled.div`
     font-size: 1.5em;
-    text-decoration: none;
-    color: inherit;
-    &:hover {
-        text-decoration: underline;
-    }
 `;
 
 const ProjectLink = styled.a`
@@ -31,15 +26,18 @@ const Label = styled.dt`
 const Projects = () => (
     <Section>
         <Label>
-            <Name
-                href="https://cube.ianhook.com"
-                target='_blank'
-                rel='noopener noreferrer'
-            >
+            <Name>
                 Magic: the Gathering Cube Viewer
-                <i className="fas fa-link"></i>
+                &nbsp;
+                <Link
+                    href="https://cube.ianhook.com"
+                    target='_blank'
+                    rel='noopener noreferrer'
+                >
+                    <i className="fas fa-link"></i>
+                </Link>
+                <Github link="ianhook/cubevision" />
             </Name>
-            <Github link="ianhook/cubevision" />
         </Label>
         <dd>
             <Description>
