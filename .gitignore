@@ -4,8 +4,4 @@ _site/
 *~
 *.swp
 node_modules
-.babelrc
-package.json
-package-lock.json
-src
-webpack.config.js
+public/bundle.js
