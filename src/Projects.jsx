@@ -26,8 +26,6 @@ const Link = styled.a`
 `;
 
 const Label = styled.dt`
-    display: flex;
-    justify-content: space-between;
 `;
 
 const Projects = () => (
@@ -39,6 +37,7 @@ const Projects = () => (
                 rel='noopener noreferrer'
             >
                 Magic: the Gathering Cube Viewer
+                <i className="fas fa-link"></i>
             </Name>
             <Github link="ianhook/cubevision" />
         </Label>

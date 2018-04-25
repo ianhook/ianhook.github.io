@@ -29,6 +29,9 @@ const JobList = styled.ol`
 `;
 
 const Job = styled.li`
+    &:last-child {
+        padding-bottom: 1em;
+    }
 `;
 
 const JobTitle = styled.div`
@@ -63,7 +66,7 @@ const Projects = () => (
                     Consolidate customer onboarding process from multiple contradicting pieces of spaghetti code into one simple interface
                 </Description>
                 <Description>
-                    Work with Business Operations to allow flexable automated customer onboarding
+                    Work with Business Operations to allow flexible automated customer onboarding
                 </Description>
                 <Description>
                     Redesign and maintain internal support website, switching from legacy PHP code with direct DB access to ReactJS frontend using new and existing APIs.
