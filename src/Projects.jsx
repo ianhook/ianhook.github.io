@@ -2,6 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 
 import Section from './Section';
+import Description from './Description';
 import Github from './Github';
 
 const Name = styled.a`
@@ -15,11 +16,6 @@ const Name = styled.a`
 
 const ProjectLink = styled.a`
     font-size: 1.5em;
-`;
-
-const Description = styled.p`
-    text-indent: 18px;
-    padding-left: 9px;
 `;
 
 const Link = styled.a`
