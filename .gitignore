@@ -1,4 +1,11 @@
 _site/
 .sass-cache
+.DS_Store
 *~
 *.swp
+node_modules
+.babelrc
+package.json
+package-lock.json
+src
+webpack.config.js
