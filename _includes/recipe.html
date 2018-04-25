@@ -1,8 +1,0 @@
-<h3>{{ site.data[include.recipe].name }}</h3>
-<i>{{ site.data[include.recipe].description }}</i>
-{% for ingredient in site.data[include.recipe].ingredients %}
-<li> {{ ingredient.measurement }} {{ ingredient.units }} {{ ingredient.item }}
-</li>
-{% endfor %}
-<p>{{ site.data[include.recipe].directions }}</p>
-

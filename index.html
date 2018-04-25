@@ -1,12 +1,26 @@
----
-layout: index
----
-
-<ul class="posts">
-  {% for post in site.posts %}
-  <li>
-    <small class="datetime muted" data-time="{{ post.date }}">{{ post.date | date_to_string }} </small>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
-  {% endfor %}
-</ul>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>Simple Polylines</title>
+    <style>
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        height: 100%;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+      <div id="root">hi</div>
+      <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBZ9M85zURrw8soO3X-LuEMvghkYfR_HFQ"></script>
+      <script type="text/javascript" src="/bundle.js"></script>
+  </body>
+</html>
